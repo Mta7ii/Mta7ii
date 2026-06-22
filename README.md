@@ -1,6 +1,6 @@
 <div align="center">
 
-# ⚡ Mohamed Eltanahi
+# ⚡ Mohamed Eltanahi ⚡
 
 ### JavaScript Developer • Front-End Engineer
 

@@ -129,7 +129,7 @@ const mohamed = {
   </a>
   &nbsp;&nbsp;
 
-  <a href="mailto:your-email@example.com">
+  <a href="mailto:mtana7iii@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" height="50" alt="Gmail" />
   </a>
 

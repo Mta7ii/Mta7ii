@@ -97,3 +97,54 @@ const mohamed = {
 ### ⚡ Code • Create • Conquer ⚡
 
 </div>
+
+<!--------------------------------[ Connect With Me ]----------------------------------->
+
+<h2 align="center">🌐 Connect With Me</h2>
+
+<p align="center">
+
+  <a href="https://github.com/mta7ii" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" height="50" alt="GitHub" />
+  </a>
+  &nbsp;&nbsp;
+
+  <a href="https://linkedin.com/in/mta7ii" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="50" alt="LinkedIn" />
+  </a>
+  &nbsp;&nbsp;
+
+  <a href="https://facebook.com/mta7ii" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="47" width="47" alt="Facebook" />
+  </a>
+  &nbsp;&nbsp;
+
+  <a href="https://instagram.com/mta7ii" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" height="50" alt="Instagram" />
+  </a>
+  &nbsp;&nbsp;
+
+  <a href="https://tiktok.com/@mta7ii" target="_blank">
+    <img src="https://img.icons8.com/color/48/tiktok--v1.png" height="50" width="50" alt="TikTok" />
+  </a>
+  &nbsp;&nbsp;
+
+  <a href="mailto:your-email@example.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="50" alt="Gmail" />
+  </a>
+
+</p>
+
+<br>
+
+<h3 align="center">
+⚡ Mohamed Eltanahi | JavaScript Developer
+</h3>
+
+<p align="center">
+Building Modern Web Experiences with JavaScript
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:F7DF1E,100:FFD600" width="100%" />
+</p>

@@ -130,7 +130,7 @@ const mohamed = {
   &nbsp;&nbsp;
 
   <a href="mailto:mtana7iii@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" height="50" alt="Gmail" />
+    <img src="https://skillicons.dev/icons?i=gmail&theme=light" height="50" alt="gmail logo" />
   </a>
 
 </p>
